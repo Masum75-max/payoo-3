@@ -6,7 +6,7 @@ Login.addEventListener("click",function(){
 const Pin=document.getElementById("Pin").value;
       if(Number==="01303814457" && Pin==="3322"){
         alert("Succesfully logged in");
-        window.location.assign("home.js");
+        window.location.assign("home.html");
       }
 
       else{
